@@ -7,7 +7,11 @@ public class Solution_Exception {
 
         catch (Exception e){
 
+
+
             System.out.println(e);
+
+
         }
         finally{
             System.out.println("thank you");
