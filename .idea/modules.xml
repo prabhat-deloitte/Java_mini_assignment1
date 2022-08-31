@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Mini_assignment.iml" filepath="$PROJECT_DIR$/Mini_assignment.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/Assignment 5.iml" filepath="$PROJECT_DIR$/Assignment 5.iml" />
+>>>>>>> 80fdbd32e0847267b58eb0bdb2bf0033b46597c1
     </modules>
   </component>
 </project>
